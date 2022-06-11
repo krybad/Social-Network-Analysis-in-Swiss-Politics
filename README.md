@@ -14,6 +14,8 @@ This question was answered proceeding the following steps:
 
 # Data 
 Voting Behavior Data: https://www.parlament.ch/de/ratsbetrieb/abstimmungen/abstimmungs-datenbank-nr
+
 Party Affiliation Data of Councillors (Scraped from Wikipedia): https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Schweizer_Nationalrats_in_der_50._Legislaturperiode
+
 Information who competed in the election for the new period: Information was gathered manually by the authors. 
 
