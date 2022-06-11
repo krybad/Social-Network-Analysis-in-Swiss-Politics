@@ -1,5 +1,5 @@
 # Social-Network-Analysis-in-Swiss-Politics
-Semester Project of HSLU MSc in Applied Information and Data Science course: Analysis and Modelling of Social Interactions
+Semester Project of HSLU MSc in Applied Information and Data Science (https://www.hslu.ch/en/lucerne-school-of-business/degree-programmes/master/applied-information-and-data-science/) course: Analysis and Modelling of Social Interactions
 
 
 # Introduction
